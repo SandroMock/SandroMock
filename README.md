@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SandroMock
+- 👀 I’m interested in Game Technology
+- 🌱 I’m currently learning AI
+- 📫 How to reach me: sandro.mock@gmx.de
